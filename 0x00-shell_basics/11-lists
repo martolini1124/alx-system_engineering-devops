@@ -1,2 +1,2 @@
-[200~#!/bin/bash
-Is -al_/boot
+#!/bin/bash
+ls -la . .. /boot
