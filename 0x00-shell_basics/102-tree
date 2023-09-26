@@ -1,3 +1,2 @@
 #!/bin/bash
-#I/bn,bash
-mkdifr -p welcome/to/school
+mkdifr -p welcome/to/school    
